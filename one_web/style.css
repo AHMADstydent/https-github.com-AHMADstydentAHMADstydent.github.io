@@ -735,3 +735,20 @@ p{
 		display: none;
 	}
 	}
+@media(max-width: 320px) {
+	.wrap{
+	width: 290px;
+	}
+	.info{
+		display: none;
+	}
+	.tel{
+		display: none;
+	}
+	.button{
+		display: none;
+	}
+	.button-info-bag {
+		width: 300px;
+	}
+	}
